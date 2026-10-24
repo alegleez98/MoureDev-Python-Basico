@@ -35,8 +35,8 @@ name, surname, alias, age = "Alejandro", "González", "AleG", 28
 print("Me llamo:", name, surname, ". Mi edad es:", age, ". Y mi alias es:", alias)
 
 #Inputs of data
-#name = input("What is your name? ");
-#age = input("How old are you? ")
+name = input("What is your name? ");
+age = input("How old are you? ")
 print(name)
 print(age)
 
